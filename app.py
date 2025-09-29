@@ -12,7 +12,7 @@ except KeyError:
 
 
 st.set_page_config(page_title="Tim Cook Chatbot", page_icon="🍎")
-st.title("🍎 Tim Cook Chatbot") 
+st.title("🍎 Tim Cook Chatbot", anchor=False) 
 st.caption("Created by Stanley Wu (Last Updated: September 2025)")
 
 # System message content
