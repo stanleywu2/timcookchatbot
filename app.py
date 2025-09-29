@@ -11,7 +11,7 @@ except KeyError:
     st.stop() # Stop execution if the key is missing
 
 
-st.set_page_config(page_title="🍎 Tim Cook Chatbot", page_icon="🎙️")
+st.set_page_config(page_title="🍎 Tim Cook Chatbot", page_icon="🍎")
 st.title("🍎 Tim Cook Chatbot") 
 st.caption("Created by Stanley Wu (Last Updated: September 2025)")
 
